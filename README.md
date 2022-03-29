@@ -1,5 +1,9 @@
 # vue-api
 
+# See current version at 
+
+https://vue-api-blond.vercel.app/
+
 ## Project setup
 ```
 npm install
